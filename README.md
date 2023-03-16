@@ -12,6 +12,8 @@
 - 🧑 Reach out to me at **[Mail](chaudharyneetu749@gmail.com) | [Portfolio](https://neetu-749.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/neetu-kumari-169349206/).**
 
 ## 🚀 Languages and Tools:
+
+<p align="left"> 
 <img src="https://img.icons8.com/color/96/000000/c-programming.png" width=45 height=45></img>
 <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width=45 height=45></img> 
 <img src="https://img.icons8.com/color/96/000000/html-5.png" width=45 height=45></img>
