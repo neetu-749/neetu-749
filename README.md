@@ -16,6 +16,7 @@
   <img src="https://img.icons8.com/color/96/000000/c-programming.png" width=45 height=45></img>
   <img src="https://img.icons8.com/color/96/000000/javascript.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/html-5.png" width=45 height=45></img>
+   <img src="https://icons8.com/icon/21278/css3" width=45 height=45></img>
   
  ![Leetcode Stats](https://leetcode.card.workers.dev/?username=bestie&theme=unicorn)
  
