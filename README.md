@@ -7,7 +7,7 @@
 
 - 🌱 I’m a full stack web developer and currently learning **Blockchain development.
 
-- 💻 Mostly I do my work in Javascript and C++**
+- 💻 Mostly I do my work in Javascript and C++
 
 - 👯 When not online I like to read books!
  
