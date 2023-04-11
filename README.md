@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m a full stack web developer and currently learning **Blockchain development.
+- 🌱 I’m a full stack web developer and currently learning Blockchain development.
 
 - 💻 Mostly I do my work in Javascript and C++
 
@@ -52,6 +52,4 @@
 <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width=45 height=45></img>
   
  ![Leetcode Stats](https://leetcode.card.workers.dev/?username=bestie&theme=unicorn)
- 
- ![My github stats](https://github-readme-stats.vercel.app/api?username=neetu-749&show_icons=true&theme=highcontrast)
- <a href="https://github.com/neetu-749/github-readme-stats"><img alt="Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neetu-749&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
