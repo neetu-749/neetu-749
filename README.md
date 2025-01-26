@@ -1,17 +1,19 @@
 ### <h1 align='center'>Heyy👋, I'm Neetu!</h1>
 
-<h3 align="center">I'm a full stack web and blockchain developer.</h3>
+<h3 align="center">Cybersecurity Enthusiast | Incident Response & Threat Management | Full Stack Web & Blockchain Developer</h3>
 
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m a full stack web developer and currently learning Blockchain development.
+- 🌱 I'm a Cybersecurity Professional with expertise in Incident Response, Threat Hunting, and Vulnerability Management. I’m passionate about both defensive and offensive security techniques.
 
-- 💻 Mostly I do my work in Javascript and C++
+- 💻 I’m also a Full Stack Web Developer and currently exploring the world of Blockchain Development.
 
-- 👯 When not online I like to read books!
+- 🔍 Actively learning and expanding my skills in WiFi Security, Ethical Hacking, and DevSecOps.
+
+- 📚 When I'm not solving cybersecurity challenges, I enjoy reading and staying updated on the latest tech trends.
  
-- 🧑 Reach out to me at **[Mail](chaudharyneetu749@gmail.com) | [Portfolio](https://neetu-749.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/neetu-kumari-169349206/).**
+- 🧑 Reach out to me at **[Mail](keynotenotekey@gmail.com) | [Portfolio](https://neetu-749.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/neetu749/).**
 
 ## 🚀 Languages and Tools:
 
