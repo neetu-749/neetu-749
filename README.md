@@ -53,5 +53,4 @@
 <img src="https://img.icons8.com/color/96/000000/markdown.png" width=45 height=45></img> 
 <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width=45 height=45></img>
   
- ![Leetcode Stats](https://leetcode.card.workers.dev/?username=bestie&theme=unicorn)
 
